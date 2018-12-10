@@ -1,3 +1,12 @@
+Welcome to my portfolio.  You can visit the site at https://sherrischeer.github.io/portfolio/
+
+
+
+
+
+
+
+
 # portfoliobootstrap 
 This website displays the student portfolio of work for a fictitous Jane Doe. It makes use of the bootstrap 3 framework. 
 The main file index.html is released to the public domain. View at https://profphillips.github.io/portfoliobootstrap/ .
